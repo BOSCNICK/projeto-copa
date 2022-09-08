@@ -1,0 +1,58 @@
+*{
+    box-sizing:border-box;
+}
+html,body{
+    margin: 0px;
+    padding:0px;
+
+}
+header{
+    background-color: rgb(56, 0, 0);
+    padding: 8px;
+    color: aliceblue;
+    font: ;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.logo{
+    width: 120px;
+}
+.menu li{
+    display: inline;
+    margin: 0 8px;
+}
+.sim{
+    background-color: rgb(190, 69, 116);
+    padding: 10px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline;
+    
+
+}
+h1{
+
+    font-size: 300%;
+    font: arial black;
+}
+
+.estadio{
+
+    width: 450px;
+}
+.estadio2{
+    width: 450px;
+    height: 253px;
+}
+.estadio3{
+    width: 450px;
+    height: 253px;
+}
+P{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
